@@ -21,7 +21,8 @@ There is a CSV database that contains more than 34,000 organizations that have r
 ### Data Preprocessing
 Target and Features
 Target Variable: 
-* IS_SUCCESSFUL
+* IS_SUCCESSFUL - Was the money used effectively
+
 Features:
 * APPLICATION_TYPE — Alphabet Soup application type
 * AFFILIATION — Affiliated sector of industry
