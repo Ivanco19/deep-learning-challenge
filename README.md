@@ -53,7 +53,7 @@ Model 2
 Model 3
 * Data removal: EIN - NAME (ID columns)
 * Bins created: None
-* Neural Network Architecture: 4 layers, 117 neurons in the first layer, 64 neurons in the second layer, 32 neurons in the third layer, and 1 neuron in the final layer.
+* Neural Network Architecture: 4 layers, 128 neurons in the first layer, 64 neurons in the second layer, 32 neurons in the third layer, and 1 neuron in the final layer.
 * Activation Functions: relu
 * Training: 50 epochs - were selected, considering the use of One Hot Encoder, which introduces additional dimensions to the input data.
 * Encoder: One Hot Encoder
